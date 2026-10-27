@@ -1,0 +1,6 @@
+
+# Backend secrets and dependencies
+backend/.env
+backend/.env.*
+!backend/.env.example
+backend/node_modules/
